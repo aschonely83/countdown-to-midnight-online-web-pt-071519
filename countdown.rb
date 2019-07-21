@@ -3,6 +3,7 @@ while number > 0
 puts "#{number} SECONDS"
 number -= 1 
 end
- return "HAPPY NEW YEAR!"
-def countdown
+ def countdown
+   return "HAPPY NEW YEAR!"
+   countdown
  end
