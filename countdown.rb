@@ -1,5 +1,5 @@
 number = 15
-while x > 0 
+while number > 0 
 puts "#{number} SECONDS"
 number -= 1 
 end
