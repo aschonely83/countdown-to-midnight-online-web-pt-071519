@@ -4,4 +4,5 @@ puts "#{x} SECONDS"
 x -= 1 
 end
 def countdown
+  return "HAPPY NEW YEAR!"
 end
