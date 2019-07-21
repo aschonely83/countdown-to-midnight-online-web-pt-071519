@@ -1,4 +1,4 @@
-number = 15
+  number = 15
   while number > 0 
   puts "#{number} SECONDS"
   number -= 1 
